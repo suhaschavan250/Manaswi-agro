@@ -3,12 +3,32 @@ import ReactDOM from 'react-dom/client';
 import './index.css';
 import App from './App';
 import reportWebVitals from './reportWebVitals';
-
+import '../node_modules/bootstrap/dist/css/bootstrap.min.css';
+import '../node_modules/bootstrap/dist/js/bootstrap';
+import Navbar from './Navbar';
+import Home from './Home';
+import About from './About'
+import Product from './Product';
+import Contact from './Contact';
+// import handleFormSubmit from './components/AddUser';
+// import Userdash from './components/Userdash';
 const root = ReactDOM.createRoot(document.getElementById('root'));
+// function submitAll(){
+// handleFormSubmit();
+// }
 root.render(
-  <React.StrictMode>
-    <App />
-  </React.StrictMode>
+  <>
+  <Navbar></Navbar>
+  <Home></Home>
+  <About></About>
+  <Product></Product>
+  <Contact></Contact>
+  {/* <App></App> */}
+{/* <App></App>  */}
+{/* <button onClick={submitAll}>add</button>
+<Userdash></Userdash> */}
+
+  </>
 );
 
 // If you want to start measuring performance in your app, pass a function
