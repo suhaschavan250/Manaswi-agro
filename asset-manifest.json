@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/Manaswi-agro/static/css/main.20d80a31.css",
+    "main.css": "/Manaswi-agro/static/css/main.60b121c1.css",
     "main.js": "/Manaswi-agro/static/js/main.07069c56.js",
     "static/js/787.596614aa.chunk.js": "/Manaswi-agro/static/js/787.596614aa.chunk.js",
     "static/media/photo4.png": "/Manaswi-agro/static/media/photo4.0d8f0b5dcb0806bcf729.png",
@@ -13,12 +13,12 @@
     "static/media/photo2.jpg": "/Manaswi-agro/static/media/photo2.6fead62a6747e2885e24.jpg",
     "static/media/grapes1.jpg": "/Manaswi-agro/static/media/grapes1.792a131164be076bc311.jpg",
     "index.html": "/Manaswi-agro/index.html",
-    "main.20d80a31.css.map": "/Manaswi-agro/static/css/main.20d80a31.css.map",
+    "main.60b121c1.css.map": "/Manaswi-agro/static/css/main.60b121c1.css.map",
     "main.07069c56.js.map": "/Manaswi-agro/static/js/main.07069c56.js.map",
     "787.596614aa.chunk.js.map": "/Manaswi-agro/static/js/787.596614aa.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.20d80a31.css",
+    "static/css/main.60b121c1.css",
     "static/js/main.07069c56.js"
   ]
 }
